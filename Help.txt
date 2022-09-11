@@ -1,0 +1,17 @@
+
+
+
+to operate with actions related to mathematic calculation can be used existing method Math()
+Read more:
+https://docs.microsoft.com/ru-ru/dotnet/api/system.math?view=netcore-3.1
+
+to privent exeptions after adding not correct values are used Expression.TryCatch
+Read more:
+https://docs.microsoft.com/ru-ru/dotnet/api/system.linq.expressions?view=netcore-3.1
+
+to change text color in console used Console.ForegroundColor 
+Read more:
+https://docs.microsoft.com/ru-ru/dotnet/api/system.console.foregroundcolor?view=netcore-3.1#system-console-foregroundcolor
+
+Adding first letter in upper case
+char.ToUpper(userName[0]) + userName.Substring(1)
